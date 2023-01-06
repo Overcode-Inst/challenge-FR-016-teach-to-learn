@@ -54,7 +54,7 @@ Sua aplicação deve ter:
 
 - ReactJs
 - fazer deploy
-- Deve se usar o react-router-dom e componentes de classe.
+- Deve se usar o react-router-dom V5 e componentes de classe.
 
 <br />
 
